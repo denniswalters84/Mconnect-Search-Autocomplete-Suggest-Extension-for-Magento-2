@@ -1,0 +1,2 @@
+# Mconnect-Search-Autocomplete-Suggest-Extension-for-Magento-2
+Search Autocomplete and Suggest Extension for Magento 2 by Mconnect makes the default search functionality more useful by adding the AJAX-based search box. It provides instant search results when customers enter minimum required characters and the extension autocompletes it to show the result on the same page without clicking on the enter key.
